@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="add FindX.java" />
+    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="add MaleStudent.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674948137074</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add MaleStudent.java">
+      <created>1674948368554</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674948368554</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,6 +112,7 @@
     <MESSAGE value="add Stamps.java" />
     <MESSAGE value="add Cycle.java" />
     <MESSAGE value="add FindX.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add FindX.java" />
+    <MESSAGE value="add MaleStudent.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add MaleStudent.java" />
   </component>
 </project>
