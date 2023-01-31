@@ -14,4 +14,13 @@
 
 
 public class Cycle {
+    public static void main(String[]args){
+       System.out.println("10 Bicycles * 2 wheels per Bicycle =");
+       System.out.println(10 * 2 + " wheels");
+       System.out.println("47 Total wheels - 20 Bicycle wheels =");
+       System.out.println(47 - 20 + " Tricycle wheels");
+       System.out.println("27 Tricycle wheels / 3 wheels per Tricycle =");
+       System.out.println(27 / 3 + " Tricycles in the shop");
+
+    }
 }
