@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="Chocolate.java calculations and outputs added" />
+    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="Circle.java description updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +159,49 @@
       <option name="project" value="LOCAL" />
       <updated>1675147335957</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Chocolate.java calculations and outputs added">
+      <created>1675147372002</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147372002</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Chocolate.java description updated">
+      <created>1675147499582</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147499582</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Stamps.java description updated">
+      <created>1675147577524</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147577524</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Cycle.java description updated">
+      <created>1675147644914</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147644914</updated>
+    </task>
+    <task id="LOCAL-00021" summary="FindX.java description updated">
+      <created>1675147677003</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147677003</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Circle.java description updated">
+      <created>1675147755990</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147755990</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,6 +219,11 @@
     <MESSAGE value="Cycle.java calculations and outputs added" />
     <MESSAGE value="Circle.java calculations and outputs added" />
     <MESSAGE value="Chocolate.java calculations and outputs added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chocolate.java calculations and outputs added" />
+    <MESSAGE value="Chocolate.java description updated" />
+    <MESSAGE value="Stamps.java description updated" />
+    <MESSAGE value="Cycle.java description updated" />
+    <MESSAGE value="FindX.java description updated" />
+    <MESSAGE value="Circle.java description updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Circle.java description updated" />
   </component>
 </project>
