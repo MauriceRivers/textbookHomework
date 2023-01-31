@@ -12,4 +12,12 @@
 
 
 public class Chocolate {
+    public static void main(String[]args){
+        System.out.println("9 bags * 2 chocolate bars per bag =");
+        System.out.println(9 * 2 + " chocolate bars");
+        System.out.println("18 chocolate bars / 3 chocolate bars per bag = ");
+        System.out.println(18 / 3 + " bags of chocolate bars");
+    }
+
+
 }
