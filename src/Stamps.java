@@ -14,4 +14,12 @@
 
 
 public class Stamps {
+    public static void main(String[]args){
+        System.out.println("Jean 40 racing car collection stamps - Susan 8 endangered animal collection stamps =");
+        System.out.print("Jean has ");
+        System.out.print(40 - 8);
+        System.out.println(" more stamps than Susan.");
+    }
+
+
 }
