@@ -12,7 +12,10 @@
 
 public class SpeedLight {
     public static void main(String[]args){
-        //edited
+        System.out.print("340 Meters per second * 5 Seconds = " );
+        System.out.println(340 * 5 + " Meters");
+
+//edited
 
     }
 }

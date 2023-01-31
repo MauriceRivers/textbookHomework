@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="add MaleStudent.java" />
+    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="add Circle.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaleStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaleStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpeedLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpeedLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stamps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stamps.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674948368554</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add Circle.java">
+      <created>1674948541494</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674948541494</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +129,7 @@
     <MESSAGE value="add Cycle.java" />
     <MESSAGE value="add FindX.java" />
     <MESSAGE value="add MaleStudent.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add MaleStudent.java" />
+    <MESSAGE value="add Circle.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Circle.java" />
   </component>
 </project>
