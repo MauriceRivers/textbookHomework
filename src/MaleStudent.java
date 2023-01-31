@@ -14,4 +14,10 @@
 
 
 public class MaleStudent {
+    public static void main(String[]args){
+        System.out.print("389 Total Students - 175 Female Students = ");
+        System.out.println(389 - 175);
+        System.out.println("There are 214 Male Students");
+
+    }
 }
