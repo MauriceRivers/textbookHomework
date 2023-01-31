@@ -13,4 +13,13 @@
 
 
 public class FindX {
+    public static void main(String[]args){
+        System.out.println("5 + 19 + X + 47 = 194");
+        System.out.print("5 + 19 + 47 = ");
+        System.out.println(5 + 19 + 47);
+        System.out.print("194 - 71 = ");
+        System.out.println(194 - 71);
+        System.out.println("X = 123");
+
+    }
 }
