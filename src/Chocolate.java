@@ -5,7 +5,7 @@
  * @Course: ITEC 2140 Section 5 Spring 2023
  * @Written: 26 January 2023
  *
- * Description - Chocolate
+ * Description - Calculator for amount of bags needed to put three chocolate bars in each bag
  */
 
 
