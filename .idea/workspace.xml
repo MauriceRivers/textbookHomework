@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="add Circle.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chocolate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaleStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaleStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpeedLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpeedLight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stamps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stamps.java" afterDir="false" />
-    </list>
+    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="Chocolate.java calculations and outputs added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +110,56 @@
       <option name="project" value="LOCAL" />
       <updated>1674948541494</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SpeedLight.java calculations updated">
+      <created>1675147182691</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147182691</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Stamps.java calculations and outputs added">
+      <created>1675147223327</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147223327</updated>
+    </task>
+    <task id="LOCAL-00012" summary="MaleStudent.java calculations and outputs added">
+      <created>1675147244441</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147244441</updated>
+    </task>
+    <task id="LOCAL-00013" summary="FindX.java calculations and outputs added">
+      <created>1675147293748</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147293748</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Cycle.java calculations and outputs added">
+      <created>1675147306816</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147306816</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Circle.java calculations and outputs added">
+      <created>1675147322020</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147322020</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Chocolate.java calculations and outputs added">
+      <created>1675147335957</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147335957</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +170,13 @@
     <MESSAGE value="add FindX.java" />
     <MESSAGE value="add MaleStudent.java" />
     <MESSAGE value="add Circle.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Circle.java" />
+    <MESSAGE value="SpeedLight.java calculations updated" />
+    <MESSAGE value="Stamps.java calculations and outputs added" />
+    <MESSAGE value="MaleStudent.java calculations and outputs added" />
+    <MESSAGE value="FindX.java calculations and outputs added" />
+    <MESSAGE value="Cycle.java calculations and outputs added" />
+    <MESSAGE value="Circle.java calculations and outputs added" />
+    <MESSAGE value="Chocolate.java calculations and outputs added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chocolate.java calculations and outputs added" />
   </component>
 </project>
