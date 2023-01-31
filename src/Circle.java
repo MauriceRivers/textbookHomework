@@ -14,4 +14,11 @@
 
 
 public class Circle {
+    public static void main(String[]args){
+        double x = 9.5;
+        double area = x * x * Math.PI;
+        double perimeter = 2 * x * Math.PI;
+        System.out.println("Area of a circle with the radius of 9.5 = " + area);
+        System.out.println("Perimeter of a circle with the radius of 9.5 = " + perimeter);
+    }
 }
