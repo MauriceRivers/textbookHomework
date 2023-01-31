@@ -5,7 +5,7 @@
  * @Course: ITEC 2140 Section 05 Spring 2023
  * @Written: 28 January 2023
  *
- * Description - FindX
+ * Description - Calculator to find the value of X
  */
 
 
