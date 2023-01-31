@@ -5,7 +5,7 @@
  * @Course: ITEC 2140 Section 05 Spring 2023
  * @Written: 28 January 2023
  *
- * Description - display the area and perimeter of a circle with a radius of 9.5
+ * Description - Calculate the area and perimeter of a circle with a radius of 9.5
  */
 
 
