@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="Circle.java description updated" />
+    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="Stamps.java Updated&#10;version number updated&#10;added variables &#10;updated description">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +204,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675147755990</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="workspace.xml updated">
+      <created>1675147787263</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675147787263</updated>
+    </task>
+    <task id="LOCAL-00024" summary="SpeedLight.java updated&#10;added scanner&#10;added user input&#10;added variables">
+      <created>1675176133214</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675176133214</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Stamps.java Updated&#10;version number updated&#10;added variables &#10;updated description">
+      <created>1675176257989</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675176257989</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +248,9 @@
     <MESSAGE value="Cycle.java description updated" />
     <MESSAGE value="FindX.java description updated" />
     <MESSAGE value="Circle.java description updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Circle.java description updated" />
+    <MESSAGE value="workspace.xml updated" />
+    <MESSAGE value="SpeedLight.java updated&#10;added scanner&#10;added user input&#10;added variables" />
+    <MESSAGE value="Stamps.java Updated&#10;version number updated&#10;added variables &#10;updated description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stamps.java Updated&#10;version number updated&#10;added variables &#10;updated description" />
   </component>
 </project>
