@@ -1,7 +1,7 @@
 /**
  * @Class: Cycle
  * @Author: Maurice Rivers
- * @Version: 1.0
+ * @Version: 1.1
  * @Course: ITEC 2140 Section 05 Spring 2023
  * @Written: 28 January 2023
  *
