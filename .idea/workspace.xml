@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="workspace.xml updated">
+    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="Cycle.java scanner added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaleStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaleStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675301095611</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Cycle.java scanner added">
+      <created>1675392465088</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1675392465088</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,6 +274,7 @@
     <MESSAGE value="Stamps.java Updated&#10;version number updated&#10;added variables &#10;updated description" />
     <MESSAGE value="Circle.java&#10;Version updated&#10;Scanner added to program" />
     <MESSAGE value="workspace.xml updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml updated" />
+    <MESSAGE value="Cycle.java scanner added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cycle.java scanner added" />
   </component>
 </project>
