@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="Stamps.java Updated&#10;version number updated&#10;added variables &#10;updated description">
+    <list default="true" id="419e8c32-aa48-452a-9ddd-c56a634852c4" name="Changes" comment="workspace.xml updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Mauri/IdeaProjects/textbookHomework",
+    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -225,7 +226,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675176257989</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Circle.java&#10;Version updated&#10;Scanner added to program">
+      <created>1675301072187</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675301072187</updated>
+    </task>
+    <task id="LOCAL-00027" summary="workspace.xml updated">
+      <created>1675301095611</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675301095611</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,9 +263,10 @@
     <MESSAGE value="Cycle.java description updated" />
     <MESSAGE value="FindX.java description updated" />
     <MESSAGE value="Circle.java description updated" />
-    <MESSAGE value="workspace.xml updated" />
     <MESSAGE value="SpeedLight.java updated&#10;added scanner&#10;added user input&#10;added variables" />
     <MESSAGE value="Stamps.java Updated&#10;version number updated&#10;added variables &#10;updated description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stamps.java Updated&#10;version number updated&#10;added variables &#10;updated description" />
+    <MESSAGE value="Circle.java&#10;Version updated&#10;Scanner added to program" />
+    <MESSAGE value="workspace.xml updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml updated" />
   </component>
 </project>

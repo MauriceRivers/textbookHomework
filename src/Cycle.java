@@ -15,12 +15,26 @@
 
 public class Cycle {
     public static void main(String[]args){
-       System.out.println("10 Bicycles * 2 wheels per Bicycle =");
-       System.out.println(10 * 2 + " wheels");
-       System.out.println("47 Total wheels - 20 Bicycle wheels =");
-       System.out.println(47 - 20 + " Tricycle wheels");
-       System.out.println("27 Tricycle wheels / 3 wheels per Tricycle =");
-       System.out.println(27 / 3 + " Tricycles in the shop");
+        java.util.Scanner Bike = new java.util.Scanner(System.in);
+        System.out.print("How many total wheels are in the shop: ");
+        int wheels = Bike.nextInt();
+
+        System.out.print("How many Bicycles are in the shop: ");
+        int Bicycles = Bike.nextInt();
+
+        int BicycleWheels = 2;
+        int TotalBicycleWheels = BicycleWheels * Bicycles;
+        System.out.println("There are " + TotalBicycleWheels + " bicycle wheels in the shop");
+
+        int TotalWheels = wheels - TotalBicycleWheels;
+        System.out.println("There are " + TotalWheels + " tricycle wheels in the shop");
+        double WheelsPerTricycle = 3;
+
+        double TricycleWheels = TotalWheels / WheelsPerTricycle;
+
+
+        System.out.println("There are " + TricycleWheels + " tricycles in the shop");
+
 
     }
 }
